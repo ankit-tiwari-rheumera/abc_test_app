@@ -8,7 +8,11 @@ public class HellloWorld1 {
 		int i = 10;
 		int j  = 12;
 		int k = 100;
+
 		int c = 69;
+
+		String msg = "checking for the conflict";
+
    System.out.println("abc ");
 
 	}
